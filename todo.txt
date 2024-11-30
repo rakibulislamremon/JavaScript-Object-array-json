@@ -1,0 +1,52 @@
+what is javascript object?
+
+How to create a object?
+
+Get single value for object
+
+
+what about Qutation?
+    -key don't nedd 
+    -value must needed the Qutation
+    -single qutation and dubble qutation ar not specific.
+    -Number dont need qutation
+
+what is JSON?
+
+
+JSON object
+    -var jsonobject={}
+
+
+JSON Array 
+    - var jsonarray=[{},{},{}]
+
+what is Javascript Array?
+
+How to write javascript Array
+    -var javaarray=[" " ," " ," "]
+    -console.log(javaarray)
+    -console.log(javaarray [3]) /single value/
+
+index number of Javascript Array
+
+loop over array
+
+Array method 
+    -concat
+    -Array.from()
+    -.includes()
+    -indexOf()
+    -pop()
+    -push()
+
+what is string
+
+string method
+    -toUpperCase()
+    -toLowerCase()
+    -trim()
+    -indexOf()
+    -lastindexOf()
+    -slice()
+
